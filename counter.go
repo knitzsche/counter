@@ -9,7 +9,6 @@ import (
     "strings"
 )
 
-
 func Words(in string) (int, error) {
     words := strings.Fields(in)
     return len(words), nil
