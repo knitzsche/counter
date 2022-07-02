@@ -1,3 +1,3 @@
-module giuthub.com/knitzsche/counter
+module github.com/knitzsche/counter
 
 go 1.13
